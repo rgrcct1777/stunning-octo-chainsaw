@@ -13,7 +13,7 @@
     "lint": "eslint \"**/*.js\""
   },
   "dependencies": {
-    "express": "4.17.1"
+    "express": "4.22.0"
   },
   "devDependencies": {
     "chai": "^4.2.0",
@@ -21,8 +21,8 @@
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-chai-friendly": "^0.6.0",
     "eslint-plugin-import": "^2.22.1",
-    "mocha": "^8.2.1",
-    "nyc": "^15.1.0",
+    "mocha": "^12.0.3",
+    "nyc": "^18.0.0",
     "sinon": "^9.2.3",
     "supertest": "^6.0.1"
   },
